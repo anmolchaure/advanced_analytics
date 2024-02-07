@@ -7,6 +7,8 @@
 ## Why Python? 
 
 - most popular and versatile programming languages globally.
+https://www.tiobe.com/tiobe-index/
+  
 - can be used to automate repetitive tasks, analyze data, produce visualizations and much more.
 -  Its syntax is more similar to how people speak than other lower-level programming languages.
 
