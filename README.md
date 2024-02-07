@@ -14,13 +14,13 @@ Python is a high-level language.
 
 High-level languages:
 
-Are programmer-friendly and easier to understand.
-They are less memory efficient.
-They are easier to debug.
-They are relatively easy to maintain.
-Are portable (so they can run on any supporting platform)
-Require a compiler or interpreter.
-They are widely used.
+- Are programmer-friendly and easier to understand.
+- They are less memory efficient.
+- They are easier to debug.
+- They are relatively easy to maintain.
+- Are portable (so they can run on any supporting platform)
+- Require a compiler or interpreter.
+- They are widely used.
 
 
 
