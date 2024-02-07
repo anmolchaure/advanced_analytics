@@ -1,4 +1,4 @@
-Data analytics with Python for MBA.
+## Data analytics with Python for MBA.
 
 “Python can deal with massive data sets that didn’t exist 20 years ago. It’s really on the cutting edge of business analytics,” says Daniel Guetta, associate professor of professional practice and director of the Business Analytics Initiative.
 
