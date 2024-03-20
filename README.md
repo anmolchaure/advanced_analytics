@@ -2,10 +2,13 @@
 
 “Python can deal with massive data sets that didn’t exist 20 years ago. It’s really on the cutting edge of business analytics,” says Daniel Guetta, associate professor of professional practice and director of the Business Analytics Initiative.
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fprogramming-python--51228514494688508%2F&psig=AOvVaw0ybGl9b29PYbZFdxuP_w1E&ust=1711001690150000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCz0JGYgoUDFQAAAAAdAAAAABAE" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
 
 
 ## Why Python? 
+
+
+
+[<img src="https://cdn.dribbble.com/users/241205/screenshots/3906737/media/69a961e84975a67590b706bd6cb62e45.jpg" align="right" width="500">](https://en.wikipedia.org/wiki/Quantum_computing)
 
 - most popular and versatile programming languages globally.
 https://www.tiobe.com/tiobe-index/
